@@ -1,0 +1,6 @@
+.background-img{
+    background-image: url(../images/Stadium.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
