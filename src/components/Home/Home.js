@@ -18,7 +18,7 @@ const Home = (props) => {
         <div>
             <div className="custom-banner">
                 <div className="container background-img">
-                    <h1 className="display-3 text-center text-white py-5 font-weight-bold">Football League</h1>
+                    <h1 className="display-3 text-center text-white py-5 font-weight-bold">Football Club At A Glance</h1>
                 </div>
             </div>
             <div className="container">
